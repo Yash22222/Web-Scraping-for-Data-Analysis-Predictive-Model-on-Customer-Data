@@ -3,8 +3,6 @@ Utilized web scraping for customer feedback at Air India, conducting robust data
 
 
 
-# **Web Scraping for Data Analysis & Predictive Model on Customer's Data**
-
 
 ## Table of Contents
 * [Web Scraping for Data Analysis](#web-scraping-for-data-analysis)
