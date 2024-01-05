@@ -117,10 +117,11 @@ Validating the model on the test dataset is an essential step in the machine lea
 - Scikit-learn (sklearn)
 - VaderSentiment (SentimentIntensityAnalyzer)
 - Warnings
+- WordCloud
 
 ## **License**
 
 TAFRAS is distributed under the [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT).
-- WordCloud
+
   
 
